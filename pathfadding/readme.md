@@ -9,8 +9,8 @@ Este é um projeto simples desenvolvido em Python com Pygame, onde um jogador po
 
 ## Requisitos
 
-- Python 3.8.10
-- Pygame 2.5.2
+- Testado em Python 3.8.10
+- Testado em Pygame 2.5.2
 
 ## Como Executar
 
