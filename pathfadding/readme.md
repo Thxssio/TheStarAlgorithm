@@ -22,9 +22,9 @@ Este é um projeto simples desenvolvido em Python com Pygame, onde um jogador po
 
 2. Instale as dependecias:
 
-```
-    pip install pygame
-```
+   ```
+       pip install pygame
+   ```
 
 <h1 align="center"> Algoritimo A* </h1>
 
