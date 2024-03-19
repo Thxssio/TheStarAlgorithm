@@ -1,10 +1,10 @@
 # Campo de Futebol com Movimento de Jogador
 
-Este é um projeto de jogo simples desenvolvido em Python com Pygame, onde um jogador pode se mover em um campo de futebol clicando na tela. O jogador utiliza o algoritmo A* para encontrar o caminho até o ponto clicado, desviando de obstáculos.
+Este é um projeto simples desenvolvido em Python com Pygame, onde um jogador pode se mover em um campo de futebol clicando na tela. O jogador utiliza o algoritmo A* para encontrar o caminho até o ponto clicado, desviando de obstáculos.
 
 ## Funcionalidades
 
-- Movimento do jogador para o ponto clicado na tela.
+- Movimento do jogador (Robô) para o ponto clicado na tela.
 - Desvio de obstáculos utilizando o algoritmo A*.
 
 ## Requisitos
@@ -57,13 +57,14 @@ No código do jogo, o algoritmo A* é implementado na função astar(inicio, obj
 
 
 1 - Instale as dependecias:
-    ´´´
+```
     pip install pygame
-    ´´´
+```
 2 - Execute:
-    ``` 
+
+``` 
     python Example2.py
-    ```
+```
 
 
 - Como Jogar
