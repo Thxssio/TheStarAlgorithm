@@ -90,5 +90,6 @@ Execute:
 
 Sinta-se à vontade para contribuir com melhorias no código, correção de bugs ou novas funcionalidades. Basta fazer um fork do repositório, realizar as modificações e enviar um pull request.
 
-#Licença
-Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE para obter mais informações.
+# Licença
+
+***Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE para obter mais informações.***
