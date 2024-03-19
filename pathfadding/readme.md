@@ -78,7 +78,7 @@ Execute:
 
 * O código foi organizado em classes para facilitar a compreensão e manutenção:
 
-`CampoDeFutebol:` Responsável por controlar a lógica do jogo e desenhar os elementos na tela.
+`CampoDeFutebol:` Responsável por controlar a lógica dos graficos e desenhar os elementos na tela.
 
 `Jogador:` Representa o jogador controlado pelo usuário, com métodos para movimentação e desenho.
 
