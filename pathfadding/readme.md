@@ -57,9 +57,9 @@ No código do jogo, o algoritmo A* é implementado na função astar(inicio, obj
 
 
 1 - Instale as dependecias:
-    ´´´
+    ```
     pip install pygame
-    ´´´
+    ```
 2 - Execute:
     ``` 
     python Example2.py
