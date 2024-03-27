@@ -79,6 +79,18 @@ O código foi organizado em classes para facilitar a compreensão e manutenção
 CampoDeFutebol: Responsável por controlar a lógica do jogo e desenhar os elementos na tela.
 Jogador: Representa o jogador controlado pelo usuário, com métodos para movimentação e desenho.
 AStar: Implementação do algoritmo A* para encontrar o caminho até o ponto clicado.
+
+As direções são representadas da forma abaixo:
+```
+    (0, 1): mover para cima (norte)
+    (0, -1): mover para baixo (sul)
+    (1, 0): mover para a direita (leste)
+    (-1, 0): mover para a esquerda (oeste)
+    (1, 1): mover para a diagonal superior direita (nordeste)
+    (1, -1): mover para a diagonal inferior direita (sudeste)
+    (-1, 1): mover para a diagonal superior esquerda (noroeste)
+    (-1, -1): mover para a diagonal inferior esquerda (sudoeste)
+```
 Contribuição
 Sinta-se à vontade para contribuir com melhorias no código, correção de bugs ou novas funcionalidades. Basta fazer um fork do repositório, realizar as modificações e enviar um pull request.
 
